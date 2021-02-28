@@ -3,3 +3,9 @@
 ㅓ
 
 연습 연습
+
+---
+
+***
+
+`printf(%d, a)sdfdsfdsf`
